@@ -1,0 +1,22 @@
+body {
+    background-color: #66ffff;
+    color: #000;
+    font-size: 16px;
+    padding: 20px;
+}
+
+p {
+    color: #000;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+
+.all-lists {
+    font-size: 16px;
+    color: #000;
+    
+}
+
